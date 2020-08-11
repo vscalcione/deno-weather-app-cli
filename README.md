@@ -9,7 +9,7 @@ $ denon start
 The command that be executed in background is: 
 ```bash
 $ deno run --allow-all index.ts --city London
-```.
+```
 
 If the user wants to have another city weather's info, run this command: 
 ```bash
