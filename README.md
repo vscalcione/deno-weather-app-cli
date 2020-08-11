@@ -6,7 +6,7 @@ If you use the denon prepared script, can you type on the shell this command:
 $ denon start
 ```
 
-The command that be executed in background is: 
+The command that will be executed in background is: 
 ```bash
 $ deno run --allow-all index.ts --city London
 ```
